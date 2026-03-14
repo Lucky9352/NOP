@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env/
+models/*.pth
+models/*.pkl
+.streamlit/
+.DS_Store
+Thumbs.db
+.vscode/
